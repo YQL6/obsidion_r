@@ -1958,20 +1958,20 @@
     "expandedKeys": []
   },
   "Git/一.Git概述/1.1简介.md": {
-    "scroll": 245.63638777959915,
+    "scroll": 312.74398647058,
     "cursor": {
       "from": {
-        "line": 274,
-        "ch": 0
+        "line": 342,
+        "ch": 34
       },
       "to": {
-        "line": 274,
-        "ch": 0
+        "line": 342,
+        "ch": 34
       }
     },
     "expandedKeys": [
       "item-1-0",
-      "item-2-12",
+      "item-1-12",
       "item-1-19"
     ]
   },
@@ -4043,15 +4043,15 @@
     ]
   },
   "操作系统/操作系统/二.进程/2.4进程通信.md": {
-    "scroll": 915.4935474395752,
+    "scroll": 915.4806816464379,
     "cursor": {
       "from": {
-        "line": 692,
-        "ch": 0
+        "line": 935,
+        "ch": 12
       },
       "to": {
-        "line": 692,
-        "ch": 0
+        "line": 935,
+        "ch": 12
       }
     },
     "expandedKeys": [
@@ -4071,6 +4071,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Git/一.Git概述/1.2git合并.md": {
+    "scroll": 17.36904725574312,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 23
+      },
+      "to": {
+        "line": 40,
+        "ch": 23
       }
     },
     "expandedKeys": []
