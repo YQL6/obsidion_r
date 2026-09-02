@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "图片",
+  "showLineNumber": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false
+}
